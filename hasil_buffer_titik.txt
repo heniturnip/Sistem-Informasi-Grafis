@@ -1,0 +1,1 @@
+Buffer di sekitar titik: Pusat di POINT (5 5), dengan jarak buffer 2
